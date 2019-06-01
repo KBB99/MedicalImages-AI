@@ -1,2 +1,2 @@
 # MedicalImages-AI
-A host of open-source projects that make automated ML models accessible to everyone.
+A host of open-source projects that make automated medical image classification accessible to everyone.
